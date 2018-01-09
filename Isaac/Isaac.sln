@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tool58", "Tool58\Tool58.vcproj", "{420428FD-7089-4466-BB53-516A9672C078}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Headers", "Headers", "{33175B48-A164-418E-BA36-BAD0A30B6586}"
+	ProjectSection(SolutionItems) = preProject
+		Headers\define.h = Headers\define.h
+		Headers\enum.h = Headers\enum.h
+		Headers\function.h = Headers\function.h
+		Data\ImgPath.txt = Data\ImgPath.txt
+		Headers\Include.h = Headers\Include.h
+		Headers\struct.h = Headers\struct.h
+		Headers\value.h = Headers\value.h
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client58", "Client58\Client58.vcproj", "{90780234-49E3-4D4A-BBDD-B2B1D9404ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420428FD-7089-4466-BB53-516A9672C078}.Debug|Win32.ActiveCfg = Debug|Win32
+		{420428FD-7089-4466-BB53-516A9672C078}.Debug|Win32.Build.0 = Debug|Win32
+		{420428FD-7089-4466-BB53-516A9672C078}.Release|Win32.ActiveCfg = Release|Win32
+		{420428FD-7089-4466-BB53-516A9672C078}.Release|Win32.Build.0 = Release|Win32
+		{90780234-49E3-4D4A-BBDD-B2B1D9404ABB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90780234-49E3-4D4A-BBDD-B2B1D9404ABB}.Debug|Win32.Build.0 = Debug|Win32
+		{90780234-49E3-4D4A-BBDD-B2B1D9404ABB}.Release|Win32.ActiveCfg = Release|Win32
+		{90780234-49E3-4D4A-BBDD-B2B1D9404ABB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,215 @@
+13x7 사이즈의 타일이 깔려야함
+
+
+
+234x156
+
+468x312
+
+
+
+468x298
+
+
+
+28
+
+
+
+
+364
+196
+
+
+
+
+대가리사이즈 28 25
+
+
+
+
+다 떄려치우고 저거에 2배씩
+
+
+
+
+아이템 해볼만한것
+
+더블샷 트리플샷 쿼드샷
+
+스탯만 변경하는것들
+
+
+
+하면안되는것
+
+
+차지샷, 레이저 관련된것들
+
+색바뀌는 아이템
+
+일회성 아이템
+
+
+만들아이템
+패시브
+피통시리즈(breakfast,lunch,dinner,dessert,snack)
+<3
+A Dollar
+A Quarter
+Blood of the martyr
+Boom!
+Cube of meat
+growth hormones
+halo of flies
+ladder
+lucky foot
+magic mushroom
+cricket's head
+mini mush
+mom's heels
+mom's lipstick
+mom's underwear
+money = power
+number one
+pentagram
+raw liver
+roid rage
+skeleton key
+the small rock
+spoon bender(생각해볼것)
+Steven
+the belt
+the halo
+the inner eye
+the sad onion
+wire coat hanger
+wooden spoon
+blood bag
+bobby-bome(생각해볼것)
+bucket of lard
+mom's knife(생각해볼것)
+odd mushroom
+bloody lust
+box
+cat-o-nine-tails
+celtic cross
+epic fetus(생각해볼것)
+Fate
+jesus juice
+mom's coin purse
+mutant spider
+pageant boy
+polyphemus
+speed ball
+toothpicks
+holy grail
+meat!
+pyro
+stem cells
+stigmata
+20/20
+bluc cap
+dead onion
+eve's mascara
+lost contact
+maggy's bow
+magic scab
+the polaroid
+old bandage
+screw
+synthoil
+trinity shield
+
+액티브
+book of shadows
+the book of sin
+the necronomicon
+the poop
+yum heart
+blood rights
+
+
+장신구
+cancer
+curved horn
+goat hoof
+callus
+
+알약
+bad trip
+bombs are key
+full health
+health up, down
+pretty fly
+range up,down
+speed up,down
+tears up,down
+luck up,down
+
+
+
+아이템 패시브 스탯설정하는거 안했으니 잊게되면 참고.
+
+
+액티브도 만들어야함.
+
+
+
+
+
+
+
+
+
+피통 5칸기준
+
+
+뒤에서부터 확인
+
+
+0.5차이면 피가 4.5이니
+
+5부분을 절반으로
+
+
+1차이면 피가 4이므로
+
+5부분을 0으로
+
+
+1.5차이면 피가 3.5이므로
+
+5부분을 0으로
+
+4부분을 절반으로
+
+
+2차이면 피가 3이므로
+
+5부분을 0으로
+
+4부분을 0으로
+
+
+2.5차이면 피가 2.5이므로
+
+5부분을 0
+
+4부분을 0
+
+3부분을 절반으로
+
+
+
+
+
+
+
+
+
+
+
+a* 적용시킬때
+
+몬스터와 플레이어 각각 "방 번호"라는 값을 추가시켜서 방이 다를때는 추적 안하도록 설정
